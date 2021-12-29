@@ -2,7 +2,7 @@ package provider
 
 import (
 	"context"
-	"github.com/wangjiaxi90/terraform-provider-hashdata/internal/provider/cloudmgr"
+	"github.com/HashDataInc/terraform-provider-hashdata/internal/provider/cloudmgr"
 	"golang.org/x/oauth2"
 	"net/url"
 )

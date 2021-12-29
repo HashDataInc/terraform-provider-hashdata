@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/wangjiaxi90/terraform-provider-hashdata/internal/provider/cloudmgr"
+	"github.com/HashDataInc/terraform-provider-hashdata/internal/provider/cloudmgr"
 	"log"
 	"math/rand"
 	_nethttp "net/http"

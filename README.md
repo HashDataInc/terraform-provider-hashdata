@@ -4,10 +4,6 @@
 
 # Terraform Provider for HashData
 
-[![Forums][discuss-badge]][discuss]
-
-[discuss-badge]: https://img.shields.io/badge/discuss-terraform--aws-623CE4.svg?style=flat
-[discuss]: https://discuss.hashicorp.com/c/terraform-providers/tf-aws/
 
 - Website: [terraform.io](https://terraform.io)
 - Tutorials: [learn.hashicorp.com](https://learn.hashicorp.com/terraform?track=getting-started#getting-started)
@@ -25,11 +21,9 @@ Please note: We take Terraform's security and our users' trust very seriously. I
 - [Using the provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [Provider development](docs/contributing)
 
-## Documentation
+## Examples
 
-Full, comprehensive documentation is available on the Terraform website:
-
-https://terraform.io/docs/providers/aws/index.html
+[examples](examples/README.md)
 
 
 ## Contributing

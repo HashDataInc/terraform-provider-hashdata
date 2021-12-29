@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/HashDataInc/terraform-provider-hashdata/internal/provider"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"github.com/wangjiaxi90/terraform-provider-hashdata/internal/provider"
 )
 
 // Run "go generate" to format example terraform files and generate the docs for the registry/website
